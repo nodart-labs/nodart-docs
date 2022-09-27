@@ -1,9 +1,10 @@
 
 <div align="center">
 <img src="sources/img/nodart-logo.svg" width="70">
-<p>
+<br/>
+<br/>
 <img src="sources/img/badges/stable-3.svg" height="20">
-</p>
+<br/>
 </div>
 <h3 align="center">NodArt - The Art of Node.js.</h3>
 <h3 align="center"> A full-featured web framework for building progressive</h3>
