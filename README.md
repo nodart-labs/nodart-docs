@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="sources/img/nodart-logo.svg" width="70">
+<img src="sources/img/nodart-logo.svg" width="100">
 <br/>
 <br/>
 <img src="sources/img/badges/stable-3.svg" height="20">
