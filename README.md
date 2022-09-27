@@ -61,7 +61,7 @@ npx nodart create-app
 
 ---
 
-<div style="text-align:center">
+<div align="center">
 <img src="sources/img/intro.svg" width="80%">
 </div>
 
