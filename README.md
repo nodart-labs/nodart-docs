@@ -1,13 +1,13 @@
 
-<div style="text-align:center">
+<div align="center">
 <img src="sources/img/nodart-logo.svg" width="70">
 <p>
 <img src="sources/img/badges/stable-3.svg" height="20">
 </p>
 </div>
-<h3 style="text-align: center">NodArt - The Art of Node.js.</h3>
-<h3 style="text-align: center"> A full-featured web framework for building progressive</h3>
-<h3 style="text-align: center"> MVC OOP back-end applications. </h3>
+<h3 align="center">NodArt - The Art of Node.js.</h3>
+<h3 align="center"> A full-featured web framework for building progressive</h3>
+<h3 align="center"> MVC OOP back-end applications. </h3>
 
 
 ---
