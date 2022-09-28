@@ -1,20 +1,18 @@
 
 <div align="center">
-<img src="sources/img/nodart-logo.svg" width="100">
-<br/>
-<br/>
-<img src="sources/img/badges/stable-3.svg" height="20">
-<br/>
-</div>
+<img src="sources/img/nodart-logo.svg" width="70">
 <h3 align="center">NodArt - The Art of Node.js.</h3>
 <h3 align="center"> A full-featured web framework for building progressive</h3>
 <h3 align="center"> MVC OOP back-end applications. </h3>
+<br/>
+<img align="center" src="sources/img/badges/stable-3.svg" height="20">
+</div>
 
 
 ---
 
 
-The framework adheres to the concept of "just install and use". 
+The framework adheres to the concept of "just install and use".
 Everything you need to run a server application:
 
 1. **Templating**
@@ -28,13 +26,13 @@ Everything you need to run a server application:
 9. **Observer pattern**
 10. **Repository pattern**
 
-Everything of this is provided out of the hood. 
-All that is needed for some of the above things to work is to specify the basic settings 
-in the configuration file. 
+Everything of this is provided out of the hood.
+All that is needed for some of the above things to work is to specify the basic settings
+in the configuration file.
 
-The framework provides a very flexible architecture, 
-making it easy to extend and customize all of these things, 
-up to and including completely changing the basic behavior 
+The framework provides a very flexible architecture,
+making it easy to extend and customize all of these things,
+up to and including completely changing the basic behavior
 by specifying class loaders and references in the same configuration file.
 
 
